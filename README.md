@@ -6,6 +6,8 @@ Amr Jamal (Contact : https://www.linkedin.com/in/amr-jamal-30467a26a/)
 
 Meral Mostafa (Contact : https://www.linkedin.com/in/meral-mostafa-3b8a972b5/)
 
+Doha Sami (Contact : https://www.linkedin.com/in/doha-sami-9603b2288/)
+
 •	Conducting an exploratory analysis of the data and creating visual representations.
 
 •	Handling Date time values.
